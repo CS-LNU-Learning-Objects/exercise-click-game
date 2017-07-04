@@ -1,0 +1,23 @@
+.column-left{ float: left; width: 200px; height: 150px}
+.column-right{ float: left; width: 200px; height: 150px }
+.column-center{ display: inline-block; width: 200px; height: 150px }
+.container {
+    width: 610px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.grey {
+    background-color: grey;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
