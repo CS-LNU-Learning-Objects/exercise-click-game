@@ -1,5 +1,5 @@
 {
-  "name": "@CS-LNU-Learning-Objects/exercise-lnu-it",
+  "name": "@CS-LNU-Learning-Objects/exercise-click-game",
   "version": "1.0.0",
   "homepage": "https://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/",
   "contributors": [
@@ -23,12 +23,14 @@
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CS-LNU-Learning-Objects/exercise-lnu-it"
+    "url": "https://github.com/CS-LNU-Learning-Objects/exercise-click-game"
   },
   "engines": {
     "node": ">=7.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
   "devDependencies": {
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
