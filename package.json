@@ -32,13 +32,14 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "css-loader": "^0.28.4",
-    "file-loader": "^0.11.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
     "standard": "*",
     "standard-loader": "^6.0.1",
-    "style-loader": "^0.18.2",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.5.0"
+    "style-loader": "^0.23.0",
+    "webpack": "^4.19.1",
+    "webpack-dev-server": "^3.1.8",
+    "webpack-cli": "^3.1.1"
   },
   "bin": {},
   "scripts": {
